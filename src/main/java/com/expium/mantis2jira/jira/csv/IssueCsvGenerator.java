@@ -33,7 +33,7 @@ public class IssueCsvGenerator {
 	public static final String LOGER_NAME = "CSV";
 	final static Logger log = LoggerFactory.getLogger(LOGER_NAME);
 
-	private static final SimpleDateFormat dateFormat = new SimpleDateFormat(PropertiesUtil.getMantisUrl());
+	private static final SimpleDateFormat dateFormat = new SimpleDateFormat(PropertiesUtil.getDateFormat());
 	{
 		dateFormat.setTimeZone(TimeZone.getTimeZone("UTC"));
 	}

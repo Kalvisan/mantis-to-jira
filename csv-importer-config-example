@@ -100,5 +100,5 @@
     "project.name" : "Web development",
     "project.lead" : null
   },
-  "config.date.format" : "dd/MM/yy hh:mm:ss"
+  "config.date.format" : "dd/MM/yy HH:mm:ss"
 }

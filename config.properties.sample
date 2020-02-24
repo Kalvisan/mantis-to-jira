@@ -1,6 +1,6 @@
 #Limit for issue id. 0 disables limit
 issue.limit.id=0
-issue.date=
+issue.date=dd/MM/yy HH:mm:ss
 
 mantis.project.name=BEAR
 mantis.url=http://localhost/mantis
